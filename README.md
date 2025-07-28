@@ -6,13 +6,13 @@ This repository contains some of my best early stage projects that helped me und
 <br>
 As I progressed, I implemented various concepts such as:
 <br>
-- Nested loops
-- If-else-if statements
-- Random number generation
-- Arrays
-- Pointers
-- String manipulation
-- Basic logic building
+- Nested loops<br>
+- If-else-if statements<br>
+- Random number generation<br>
+- Arrays<br>
+- Pointers<br>
+- String manipulation<br>
+- Basic logic building<br>
 <br>
 Each project demonstrates a specific stage in my learning journey, and you will notice the increasing complexity as you go through them.
 <br>
